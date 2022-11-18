@@ -1,6 +1,9 @@
 # **LION FINANCE**
 
+---
 ![image](Lion.jpg)
+
+---
 
 ## ABOUT LION
 
